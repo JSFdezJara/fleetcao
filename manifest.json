@@ -8,12 +8,12 @@
   "icons": [
     {
       "src": "https://jsfdezjara.github.io/fleetcao/logoCORE.png",
-      "sizes": "192x192",
+      "sizes": "256x256",
       "type": "image/png"
     },
     {
       "src": "https://jsfdezjara.github.io/fleetcao/logoCORE.png",
-      "sizes": "512x512",
+      "sizes": "256x256",
       "type": "image/png"
     }
   ]
