@@ -1,0 +1,20 @@
+{
+  "name": "Gr Jomiar",
+  "short_name": "Gr Jomiar",
+  "start_url": "https://script.google.com/macros/s/AKfycbwxRQ5p8SJwHpp_-fd8PTtUD4sdxSPnSh3H_EI9Kh6lwjKH25HjuCsdUoPe-i19Ilv2/exec",
+  "display": "standalone",
+  "background_color": "#1f3c88",
+  "theme_color": "#1f3c88",
+  "icons": [
+    {
+      "src": "https://lh3.googleusercontent.com/d/16gJJFUlWZDhhDmvKkpkZlSjGx-WzrZVr",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/d/16gJJFUlWZDhhDmvKkpkZlSjGx-WzrZVr",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ]
+}
